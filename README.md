@@ -1,4 +1,4 @@
-# CN-X2RG
+# CN-X2RG(MICCAI 2023 Workshops: Care-AI 2023)
 Generating Chinese Radiology Reports from X-ray Images: A Public Dataset and An X-ray-to-Reports Generation Method
 
 ## Overview of the proposed framework.
