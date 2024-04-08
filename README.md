@@ -1,6 +1,6 @@
 # CN-X2RG
 Generating Chinese Radiology Reports from X-ray Images: A Public Dataset and An X-ray-to-Reports Generation Method
-
+![Image text](https://github.com/Endless-Hao/CN-X2RG/blob/main/figure/Figure1.pdf)
 ## Citations
 If you use or extend our work, please cite our paper.
 ```bibtex
