@@ -1,6 +1,8 @@
 # CN-X2RG
 Generating Chinese Radiology Reports from X-ray Images: A Public Dataset and An X-ray-to-Reports Generation Method
-## 引用
+
+## Citations
+If you use or extend our work, please cite our paper.
 ```bibtex
 @inproceedings{tang2023generating,
   title={Generating Chinese Radiology Reports from X-Ray Images: A Public Dataset and an X-ray-to-Reports Generation Method},
