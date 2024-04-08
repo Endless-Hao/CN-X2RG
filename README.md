@@ -8,6 +8,10 @@ Generating Chinese Radiology Reports from X-ray Images: A Public Dataset and An 
 ![Image text](https://github.com/Endless-Hao/CN-X2RG/blob/main/figure/report.jpg)
 The blue box indicates that the original report is in English, and the red indicates that the original report is in Chinese. Using ChatGPT as a translation tool.
 
+## CN-RadGrap
+![Image text](https://github.com/Endless-Hao/CN-X2RG/blob/main/figure/graph.jpg)
+Sample report annotated according to the CN-RadGraph schema (upper) and the associated knowledge graph (lower).
+
 ## Citations
 If you use or extend our work, please cite our paper.
 ```bibtex
