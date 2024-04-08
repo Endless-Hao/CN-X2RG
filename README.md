@@ -1,8 +1,11 @@
 # CN-X2RG
 Generating Chinese Radiology Reports from X-ray Images: A Public Dataset and An X-ray-to-Reports Generation Method
 
-![Image text]([https://github.com/Endless-Hao/CN-X2RG/blob/main/figure/Figure1.pdf](https://github.com/Endless-Hao/CN-X2RG/blob/main/figure/overview.jpg))
+![Image text]([https://github.com/Endless-Hao/CN-X2RG/blob/main/figure/Figure1.pdf](https://github.com/Endless-Hao/CN-X2RG/blob/main/figure/overview.jpg)
 Overview of the proposed framework.
+
+![Image text]([https://github.com/Endless-Hao/CN-X2RG/blob/main/figure/Figure1.pdf](https://github.com/Endless-Hao/CN-X2RG/blob/main/figure/report.jpg)
+Illustration of the Chinese(Right)(The proposed dataset) and English(Left) reports. The blue box indicates that the original report is in English, and the red indicates that the original report is in Chinese. Using ChatGPT as a translation tool.
 
 ## Citations
 If you use or extend our work, please cite our paper.
